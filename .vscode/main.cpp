@@ -54,3 +54,8 @@ int main(){
    return 0;
 }
 
+int addition(int x, int y){
+    return (x+y);
+}
+
+   
